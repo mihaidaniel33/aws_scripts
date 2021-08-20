@@ -1,0 +1,26 @@
+# ROOT FILES/DIRECTORIES
+.vscode
+
+# s3_md5 files and folders
+s3_md5/env
+s3_md5/.vscode
+s3_md5/md5_list.txt
+s3_md5/.DS_Store
+
+# filter_aws_resources
+filter_aws_resources/env
+filter_aws_resources/.vscode
+filter_aws_resources/output
+
+# api_keys
+create_api_keys/env
+
+# api_usage_plan_update
+api_usage_plan_update/env
+
+# s3_check_classic_link
+s3_check_classic_link/env
+s3_check_classic_link/results.json
+
+# api_update_integration
+api_update_integration/env
